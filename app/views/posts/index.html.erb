@@ -1,0 +1,15 @@
+<div>
+  Posts max updated_at:
+  <%= Post.maximum(:updated_at) %>
+</div>
+
+<ul>
+  <% Post.all.each do |post| %>
+    <%= turbo_frame_tag post do %>
+      <li>
+        <%= post.title %>
+        <%= link_to "Edit post", edit_post_path(post) %>
+      </li>
+    <% end %>
+  <% end %>
+</ul>

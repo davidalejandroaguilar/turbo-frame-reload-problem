@@ -1,0 +1,10 @@
+<%= turbo_frame_tag @post do %>
+  Editing post <%= @post.title %>
+
+  <%= form_with model: @post, data: { turbo_frame: :_top } do |form| %>
+    <%= form.label :title %>
+    <%= form.text_field :title %>
+
+    <%= form.submit %>
+  <% end %>
+<% end %>
