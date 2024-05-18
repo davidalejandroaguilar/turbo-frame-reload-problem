@@ -1,0 +1,227 @@
+18:38:57  exit                                                                                               0.000010   Virus       
+18:38:57  open              .                                                                                0.000039   Virus       
+18:38:57  fcntl                                                                                              0.000002   Virus       
+18:38:57  close                                                                                              0.000002   Virus       
+18:38:57  fsgetpath         /Users/m1/Virus                                                                  0.000013   Virus       
+18:38:57  fsgetpath         /usr/lib/dyld                                                                    0.000016   Virus       
+18:38:57  open                                                                                               0.000008   Virus       
+18:38:57  openat            [3]/../../System/Volumes/Preboot/Cryptexes/OS                                    0.000025   Virus       
+18:38:57  fstatat64         [4]/System/Library/dyld                                                          0.000009   Virus       
+18:38:57  openat            [4]/System/Library/dyld                                                          0.000010   Virus       
+18:38:57  fcntl                                                                                              0.000002   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  fsgetpath         tem/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_arm64e    0.000009   Virus       
+18:38:57  fcntl                                                                                              0.000001   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  getfsstat64                                                                                        0.000005   Virus       
+18:38:57  getfsstat64                                                                                        0.000017   Virus       
+18:38:57  getattrlist                                                                                        0.000015   Virus       
+18:38:57  stat64            tem/Volumes/Preboot/Cryptexes/OS/System/Library/dyld/dyld_shared_cache_arm64e    0.000011   Virus       
+18:38:57  stat64                                                                                             0.000001   Virus       
+18:38:57  stat64            /Users/m1/Virus                                                                  0.000004   Virus       
+18:38:57  open              /Users/m1/Virus                                                                  0.000034   Virus       
+18:38:57  fcntl                                                                                              0.000002   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  stat64            /Users/m1/Virus                                                                  0.000004   Virus       
+18:38:57  stat64            /usr/lib/libc++.1.dylib                                                          0.000004   Virus       
+18:38:57  stat64            /System/Volumes/Preboot/Cryptexes/OS/usr/lib/libc++.1.dylib                      0.000004   Virus       
+18:38:57  stat64            /usr/lib/system/libdispatch.dylib                                                0.000005   Virus       
+18:38:57  stat64            /System/Volumes/Preboot/Cryptexes/OS/usr/lib/system/libdispatch.dylib            0.000003   Virus       
+18:38:57  stat64            /usr/lib/system/libdispatch.dylib                                                0.000002   Virus       
+18:38:57  stat64            /usr/lib/libSystem.B.dylib                                                       0.000004   Virus       
+18:38:57  stat64            /System/Volumes/Preboot/Cryptexes/OS/usr/lib/libSystem.B.dylib                   0.000005   Virus       
+18:38:57  open              /dev/dtracehelper                                                                0.000072   Virus       
+18:38:57  ioctl                                                                                              0.000021   Virus       
+18:38:57  close                                                                                              0.000005   Virus       
+18:38:57  access            /AppleInternal>>>>>>>>>>                                                         0.000012   Virus       
+18:38:57  fstat64                                                                                            0.000003   Virus       
+18:38:57  close                                                                                              0.000002   Virus       
+18:38:57  ioctl                                                                                              0.000003   Virus       
+18:38:57  ioctl                                                                                              0.000001   Virus       
+18:38:57  getattrlist       /Users/m1/Virus                                                                  0.000021   Virus       
+18:38:57  access            /Users/m1                                                                        0.000063   Virus       
+18:38:57  open              /Users/m1                                                                        0.000027   Virus       
+18:38:57  fstat64                                                                                            0.000003   Virus       
+18:38:57  fgetattrlist                                                                                       0.000012   Virus       
+18:38:57  fcntl                                                                                              0.000006   Virus       
+18:38:57  close                                                                                              0.000003   Virus       
+18:38:57  open              /Users/m1/Info.plist                                                             0.000009   Virus       
+18:38:57  posix_spawn       /bin/sh                                                                          0.000506   Virus       
+18:38:57  posix_spawn       /bin/sh                                                                          0.000180   Virus       
+18:38:57  open              /Users/m1/952634749/Sysinfo.txt                                                  0.000053   Virus       
+18:38:57  fcntl                                                                                              0.000001   Virus       
+18:38:57  posix_spawn       /bin/sh                                                                          0.000139   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  fstat64                                                                                            0.000001   Virus       
+18:38:57  read                                                                                               0.016789   Virus       
+18:38:57  read                                                                                               0.000362   Virus       
+18:38:57  close                                                                                              0.000003   Virus       
+18:38:57  fstat64                                                                                            0.000003   Virus       
+18:38:57  fcntl                                                                                              0.000002   Virus       
+18:38:57  posix_spawn       /bin/sh                                                                          0.000201   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  fstat64                                                                                            0.000001   Virus       
+18:38:57  read                                                                                               0.109067   Virus       
+18:38:57  read                                                                                               0.006735   Virus       
+18:38:57  close                                                                                              0.000002   Virus       
+18:38:57  fcntl                                                                                              0.000001   Virus       
+18:38:57  posix_spawn       /bin/sh                                                                          0.000183   Virus       
+18:38:57  close                                                                                              0.000001   Virus       
+18:38:57  fstat64                                                                                            0.000001   Virus       
+18:38:58  read                                                                                               0.208357   Virus       
+18:38:58  read                                                                                               0.006607   Virus       
+18:38:58  close                                                                                              0.000002   Virus       
+18:38:58  write                                                                                              0.000042   Virus       
+18:38:58  close                                                                                              0.000023   Virus       
+18:38:58  fcntl                                                                                              0.000001   Virus       
+18:38:58    WrData[A]       /Users/m1/952634749/Sysinfo.txt                                                  0.000035 W Virus       
+18:38:58  posix_spawn       /bin/sh                                                                          0.000164   Virus       
+18:38:58  close                                                                                              0.000001   Virus       
+18:38:58  fstat64                                                                                            0.000001   Virus       
+18:38:58  read                                                                                               0.140988   Virus       
+18:38:58  read                                                                                               0.000292   Virus       
+18:38:58  close                                                                                              0.000003   Virus       
+18:38:58  fcntl                                                                                              0.000002   Virus       
+18:38:58  posix_spawn       /bin/sh                                                                          0.000173   Virus       
+18:38:58  close                                                                                              0.000001   Virus       
+18:38:58  fstat64                                                                                            0.000001   Virus       
+18:39:02  read                                                                                               4.029512   Virus       
+18:39:02  read                                                                                               0.001993   Virus       
+18:39:02  close                                                                                              0.000004   Virus       
+18:39:02  fcntl                                                                                              0.000002   Virus       
+18:39:02  posix_spawn       /bin/sh                                                                          0.000276   Virus       
+18:39:02  close                                                                                              0.000001   Virus       
+18:39:02  fstat64                                                                                            0.000002   Virus       
+18:39:02  read                                                                                               0.141347   Virus       
+18:39:02  close                                                                                              0.000002   Virus       
+18:39:02  open              /Users/m1/952634749/password-entered                                             0.000082   Virus       
+18:39:02  fstat64                                                                                            0.000001   Virus       
+18:39:02  write                                                                                              0.000035   Virus       
+18:39:02  close                                                                                              0.000043   Virus       
+18:39:02  stat64            /Users/m1/Library/Keychains/login.keychain-db                                    0.000010   Virus       
+18:39:02  open              /Users/m1/Library/Keychains/login.keychain-db                                    0.000017   Virus       
+18:39:02  open              /Users/m1/952634749/login-keychain                                               0.000038   Virus       
+18:39:02  fstat64                                                                                            0.000001   Virus       
+18:39:02    WrData[A]       /Users/m1/952634749/password-entered                                             0.000416 W Virus       
+18:39:02    RdData[A]       /Users/m1/Library/Keychains/login.keychain-db                                    0.000601 W Virus       
+18:39:02  read                                                                                               0.000627   Virus       
+18:39:02  fstat64                                                                                            0.000001   Virus       
+18:39:02  read                                                                                               0.000002   Virus       
+18:39:02  write                                                                                              0.000021   Virus       
+18:39:02  read                                                                                               0.000002   Virus       
+18:39:02  write                                                                                              0.000009   Virus       
+18:39:02  read                                                                                               0.000002   Virus       
+18:39:02  write                                                                                              0.000005   Virus       
+18:39:02    RdData[A]       /Users/m1/Library/Keychains/login.keychain-db                                    0.000184 W Virus       
+18:39:02  read                                                                                               0.000210   Virus       
+18:39:02  write                                                                                              0.000012   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000007   Virus       
+18:39:02  read                                                                                               0.000002   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02  read                                                                                               0.000012   Virus       
+18:39:02  write                                                                                              0.000006   Virus       
+18:39:02    RdData[A]       /Users/m1/Library/Keychains/login.keychain-db                                    0.000239 W Virus       
+18:39:02  read                                                                                               0.000233   Virus       
+18:39:02  write                                                                                              0.000006   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000008   Virus       
+18:39:02  read                                                                                               0.000002   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02  read                                                                                               0.000009   Virus       
+18:39:02  write                                                                                              0.000005   Virus       
+18:39:02    RdData[A]       /Users/m1/Library/Keychains/login.keychain-db                                    0.000041 W Virus       
+18:39:02  read                                                                                               0.000045   Virus       
+18:39:02  write                                                                                              0.000006   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000009   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02  read                                                                                               0.000013   Virus       
+18:39:02  write                                                                                              0.000005   Virus       
+18:39:02  read                                                                                               0.000002   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02    RdData[A]       /Users/m1/Library/Keychains/login.keychain-db                                    0.000037 W Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000006   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000007   Virus       
+18:39:02  read                                                                                               0.000004   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000005   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02  write                                                                                              0.000004   Virus       
+18:39:02  close                                                                                              0.000031   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  close                                                                                              0.000001   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Firefox>>>>>>>>>>>                         0.000009   Virus       
+18:39:02    WrData[A]       /Users/m1/952634749/login-keychain                                               0.000050 W Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Google>>>>>>>>>>>>                         0.000004   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Google>>>>>>>>>>>>                         0.000001   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Arc                                        0.000007   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/BraveSoftware>>>>>                         0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Microsoft Edge                             0.000004   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Vivaldi                                    0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Yandex>>>>>>>>>>>>                         0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/com.operasoftware.Opera                    0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/com.operasoftware.OperaGX                  0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Exodus>>>>>>>>>>>>                         0.000004   Virus       
+18:39:02  stat64            /Users/m1/.electrum>>>>>                                                         0.000003   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Coinomi>>>>>>>>>>>                         0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Guarda>>>>>>>>>>>>                         0.000002   Virus       
+18:39:02  stat64            /Users/m1/.walletwasabi>                                                         0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/atomic>>>>>>>>>>>>                         0.000004   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support/Ledger Live                                0.000002   Virus       
+18:39:02  stat64            /Users/m1/Library/Application Support//Telegram Desktop>                         0.000002   Virus       
+18:39:02  posix_spawn       /bin/sh                                                                          0.000179   Virus       
+18:39:02  fcntl                                                                                              0.000001   Virus       
+18:39:02  posix_spawn       /bin/sh                                                                          0.000200   Virus       
+18:39:02  close                                                                                              0.000001   Virus       
+18:39:02  fstat64                                                                                            0.000002   Virus       
+18:39:02  read                                                                                               0.009592   Virus       
+18:39:02  close                                                                                              0.000003   Virus       
+18:39:02  open              /Users/m1/952634749.zip                                                          0.000018   Virus       
+18:39:02  fstat64                                                                                            0.000001   Virus       
+18:39:02  fstat64                                                                                            0.000001   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  read                                                                                               0.000002   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  read                                                                                               0.000001   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  lseek                                                                                              0.000001   Virus       
+18:39:02  close                                                                                              0.000001   Virus       
+18:39:03  fstat64                                                                                            0.000022   Virus       
+18:39:03  write                                                                                              0.000095   Virus       
+18:39:03  posix_spawn       /bin/sh                                                                          0.000803   Virus       
+18:39:03  posix_spawn       /bin/sh                                                                          0.000401   Virus       
+18:39:03  posix_spawn       /bin/sh                                                                          0.000302   Virus       
+18:39:04  exit                                                                                               0.000093   Virus       
+18:39:04    WrData[A]       /Users/m1/log.txt                                                                0.000322 W Virus       

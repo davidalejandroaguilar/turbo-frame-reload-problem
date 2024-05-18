@@ -1,0 +1,15 @@
+rm log.txt
+touch log.txt
+rm run_and_log.sh
+touch run_and_log.sh
+
+echo '#!/bin/bash
+
+# Log file location
+LOGFILE="./log.txt"
+
+# Run the command and redirect both stdout and stderr to the log file
+./Virus > "$LOGFILE" 2>&1' > run_and_log.sh
+
+chmod +x run_and_log.sh
+./run_and_log.sh
